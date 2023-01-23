@@ -1,5 +1,3 @@
 ## Hi, my name is Daiyr. I am beginner Go developer!
 
-About me
-
-Tools
+[Tools](https://img.shields.io/badge/GO-#16b9cd)
