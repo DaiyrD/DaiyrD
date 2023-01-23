@@ -1,4 +1,4 @@
-![Header](https://github.com/DaiyrD/DaiyrD/blob/main/assets/cat.gif)
+Header
 
 About me
 
